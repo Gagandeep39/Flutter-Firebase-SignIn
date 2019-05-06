@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1094335768734",
+    "firebase_url": "https://fir-app-gagan.firebaseio.com",
+    "project_id": "fir-app-gagan",
+    "storage_bucket": "fir-app-gagan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094335768734:android:b2ffd764d7829ede",
+        "android_client_info": {
+          "package_name": "com.gagandeep.flutter_codelabs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094335768734-c1vaei3eh2snsva6tkg48138e63ui2lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Search in google keep"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094335768734-c1vaei3eh2snsva6tkg48138e63ui2lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094335768734:android:5a1f3501bdf6a169",
+        "android_client_info": {
+          "package_name": "com.gagandeep.flutter_firebase_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094335768734-c1vaei3eh2snsva6tkg48138e63ui2lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQmJn12Y5YuCfzArS57mcyHkwhHVbpYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094335768734-c1vaei3eh2snsva6tkg48138e63ui2lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
